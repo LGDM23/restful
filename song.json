@@ -1,0 +1,44 @@
+{
+    "song1" : {
+       "song" : "Fine China",
+       "artist" : "Chris Brown",
+       "genre" : "R&B",
+       "link": "https://music.apple.com/ph/album/fine-china/920685975?i=920686030",
+       "id": "1"
+       
+    },
+
+    "song2" : {
+        "song" : "Hope",
+        "artist" : "NF",
+        "genre" : "hip-hop",
+        "link": "https://music.apple.com/ph/album/hope/1670412644?i=1670412645",
+        "id": "2"
+     },
+
+     "song3" : {
+        "song" : "banal na aso santong kabayo",
+        "artist" : "Yano",
+        "genre" : "pop",
+        "link": "https://www.youtube.com/watch?v=5btnok4Ez4I&pp=ygUbYmFuYWwgbmEgYXNvIHNhbnRvbmcga2FiYXlv",
+        "id": "3"
+     },
+
+     "song4" : {
+        "song" : "High End",
+        "artist" : "Chris Brown",
+        "genre" : "R&B",
+        "link": "https://music.apple.com/ph/album/high-end-feat-future-young-thug/1293916276?i=1293917433",
+        "id": "4"
+     },
+
+     "song5" : {
+        "song" : "hunger.on.hillside",
+        "artist" : "J.cole",
+        "genre" : "hip-hop",
+        "link": "https://music.apple.com/ph/album/h-u-n-g-e-r-o-n-h-i-l-l-s-i-d-e/1567421945?i=1567422356",
+        "id": "5"
+     }
+
+}
+
